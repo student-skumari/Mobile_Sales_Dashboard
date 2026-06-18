@@ -43,4 +43,4 @@ This project demonstrates expertise in data visualization, business intelligence
 
 ## 📷 Dashboard Snapshot
 
-[Good_Store_Dashboard]()
+[Mobile_Store_Dashboard](https://github.com/student-skumari/Mobile_Sales_Dashboard/blob/main/mobile_sales_dashboard.jpeg)
